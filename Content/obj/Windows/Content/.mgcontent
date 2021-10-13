@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/../Audio/LaserShot.wav</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/BackgroundMusic.mp3</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Bullet0.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Dead1.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Dead10.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Dead2.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Dead3.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Dead4.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Dead5.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Dead6.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Dead7.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Dead8.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Dead9.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/FondoNuevo.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/GameOver.spritefont</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Idle1.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Idle10.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Idle2.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Idle3.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Idle4.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Idle5.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Idle6.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Idle7.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Idle8.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Idle9.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Jump1.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Jump10.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Jump2.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Jump3.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Jump4.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Jump5.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Jump6.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Jump7.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Jump8.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Jump9.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Pad5.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Run1.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Run2.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Run3.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Run4.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Run5.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Run6.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Run7.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/Run8.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/RunE1.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/RunE2.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/RunE3.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/RunE4.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/RunE5.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/RunE6.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/RunE7.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/RunE8.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/RunEL1.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/RunEL2.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/RunEL3.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/RunEL4.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/RunEL5.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/RunEL6.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/RunEL7.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/RunEL8.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/RunL1.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/RunL2.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/RunL3.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/RunL4.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/RunL5.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/RunL6.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/RunL7.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/RunL8.png</File>
+    <File>C:/Users/samra_waefnk9/source/repos/RobotGame/Content/txt.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>LaserShot.wav</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
